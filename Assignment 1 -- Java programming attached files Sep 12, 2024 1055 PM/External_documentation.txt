@@ -1,0 +1,32 @@
+
+Overview
+--------
+
+< Overview of what you are doing.  Don't repeate the assignment text...you can refer someone to that document instead. >
+
+Files and external data
+-----------------------
+< Where will a reader of your code find the important parts of your implementation.  Help them navigate. >
+
+Data structures and their relations to each other
+-------------------------------------------------
+< What data structures do you use.  Name the data structures by what they are storing and then give us the data structure / ADT name.  Don't just say that you are using a List, for example. >
+
+Assumptions
+-----------
+< Added _reasonable_ assumptions that you made for the implementation >
+
+Choices
+-------
+< Key choices that you have made in your design that could result in different output or behaviour if chosen incorrectly. >
+
+Key algorithms and design elements
+----------------------------------
+< Where are important algorithms needed.  What kind of algorithm are you doing, even up to having pseudocode at the high level. >
+
+
+Limitations
+-----------
+< What limitations have you left in the system because they aren't important for the goal but do create limitations on what your system can do or how it behaves.  These would be fixed in later versions of the code. >
+
+
