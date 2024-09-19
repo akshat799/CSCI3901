@@ -1,0 +1,4 @@
+2024/09/01	ProductA	500 g	10.99
+2024/09/02	ProductB	1 l	5.49
+2024/09/03	ProductC	250 ml	0
+2024/09/04	ProductA	1 kg	20.00
